@@ -1,2 +1,2 @@
 # reactingNOxFoam
-Zeldovich mechanism to describe the NOx formation in reactingFoam
+## Zeldovich mechanism to describe the NOx formation in reactingFoam
